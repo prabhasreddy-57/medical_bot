@@ -8,3 +8,5 @@ Interactive Conversations: Engage in interactive conversations with the chatbot 
 Easy-to-Use: Simple interface makes it easy for users to interact with the chatbot and get the information they need.
 Setup
 To run the Medical Chatbot, follow these steps:
+
+llama-2-7b-chat.ggmlv3.q4_0.bin  download this and place in ./model folder
